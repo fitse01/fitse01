@@ -5,7 +5,7 @@
 - 📫 How to reach me   
             fitsumtafese01@gmail.com
 - 📫 portfolio   
-       fitsum.net
+       [fitsum.net](https://fitsum.net/)
 - ⚡ Fun fact: ...
 
 <!---
