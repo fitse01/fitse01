@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on real life application projects
 - 📫 How to reach me   
             fitsumtafese01@gmail.com
-- 📫 portfolio    fitsum.net
+- 📫 portfolio   
+       fitsum.net
 - ⚡ Fun fact: ...
 
 <!---
