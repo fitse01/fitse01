@@ -1,8 +1,10 @@
 - 👋 Hi, I’m Fitsum Tafese
-- 👀 I’m interested in ...
+- A passionate Full-Stack Web Developer from Ethiopia.
 - 🌱 I’m currently working as fullstack developer more on react 
 - 💞️ I’m looking to collaborate on real life application projects
-- 📫 How to reach me ...
+- 📫 How to reach me   
+            fitsumtafese01@gmail.com
+            fitsum.net
 - ⚡ Fun fact: ...
 
 <!---
