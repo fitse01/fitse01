@@ -3,8 +3,7 @@
 - 🌱 I’m currently working as fullstack developer more on react 
 - 💞️ I’m looking to collaborate on real life application projects
 - 📫 How to reach me   
-            fitsumtafese01@gmail.com
-            fitsum.net
+            fitsumtafese01@gmail.com            fitsum.net
 - ⚡ Fun fact: ...
 
 <!---
