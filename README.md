@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Fitsum Tafese</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Fitsum+Tafese&center=true&size=35">
+</h1>
 <h3 align="center">Full Stack Developer | Software Engineer | Microservices & Scalable Systems</h3>
 
 <p align="center">
