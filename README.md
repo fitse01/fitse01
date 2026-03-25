@@ -122,6 +122,9 @@ Event-driven notification architecture for scalable applications.
 I enjoy building scalable platforms, experimenting with system design, and turning complex ideas into real software systems.
 
 ---
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fitse01&theme=tokyo-night" />
+</p>
 
 <p align="center">
 <img src="https://visitcount.itsvg.in/api?id=fitse01&icon=0&color=0"/>
