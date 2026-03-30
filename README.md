@@ -111,9 +111,6 @@ Event-driven notification architecture for scalable applications.
 <img src="https://nirzak-streak-stats.vercel.app/?user=fitse01&theme=tokyonight" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fitse01&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
