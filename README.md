@@ -100,7 +100,17 @@ Full-stack digital learning platform with course management and authentication.
 Event-driven notification architecture for scalable applications.
 
 ---
+# 📊 GitHub Stats
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=fitse01&show_icons=true&theme=tokyonight" />
+</p>
+
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fitse01&layout=compact&theme=tokyonight" />
+</p>
+---
 
 
 # ⚡ Fun Fact
