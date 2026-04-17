@@ -90,13 +90,13 @@
 ### 🍔 Food Delivery Platform
 A scalable UberEats-style platform with modern backend architecture.
 
-### 🛒 Microservices E-commerce System
+###  Microservices E-commerce System
 Event-driven microservice architecture with scalable services.
 
-### 📚 Mindset E-learning Platform
+###  Mindset E-learning Platform
 Full-stack digital learning platform with course management and authentication.
 
-### 🔔 Real-time Notification System
+###  Real-time Notification System
 Event-driven notification architecture for scalable applications.
 
 ---
